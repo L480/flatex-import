@@ -1,0 +1,12 @@
+{
+  "client_id": "c4b5a831-ef69-47ee-90a7-62010f9f069e/56a81c98-75aa-439c-ada8-39271768c6e2",
+  "client_secret": "qB:z7wPrkGr:wpFX]adF",
+  "redirect_uri": "http://localhost:8080",
+  "skr04_account_names": {
+    "1820": "Wertpapierverrechnungskonto (1820)",
+    "0900": "Wertpapiere des Anlagevermögens (0900)",
+    "4900": "Erträge aus dem Abgang von Gegenständen des Anlagevermögens (4900)",
+    "6900": "Verluste aus dem Abgang von Gegenständen des Anlagevermögens (6900)",
+    "7020": "Zins- und Dividendenerträge (7020)"
+  }
+}
